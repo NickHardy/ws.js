@@ -10,6 +10,11 @@ A WS-* client stack for node.js. Written in pure javascript!
 
 For more information visit [my blog](http://webservices20.blogspot.com/) or [my twitter](https://twitter.com/YaronNaveh).
 
+Note:
+An excellent package from Yaron.
+I just tweaked it to suite our needs.
+Nick Hardy (n.hardy@exxellence.nl)
+
 ## Install
 Install with [npm](http://github.com/isaacs/npm):
 
@@ -324,7 +329,7 @@ Just specify an http**s** address in any of the previous samples.
 `````
 
 ### License
-This software is licensed udner the **MIT license**.
+This software is licensed under the **MIT license**.
 
 Copyright (C) 2012 Yaron Naveh ([mail](mailto:yaronn01@gmail.com), [blog](http://webservices20.blogspot.com/))
 
