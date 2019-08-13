@@ -18,7 +18,7 @@ Nick Hardy (n.hardy@exxellence.nl)
 ## Install
 Install with [npm](http://github.com/isaacs/npm):
 
-    npm install ws.js
+    npm install @exxellence/ws.js
 
 ## Usage
 
